@@ -1,4 +1,4 @@
-# Toy Drone Assessment   - (Drone-Zone) 
+# Toy Drone - (Drone-Zone) 
 
 The Drone-Zone game has the following features 
  - Move  
